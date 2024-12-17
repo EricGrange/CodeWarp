@@ -1,0 +1,10 @@
+*.dcu
+*.bdsproj
+*.cfg
+*.json
+*.dproj
+*.local
+*.drc
+*.dsk
+*.identcache
+/__history
